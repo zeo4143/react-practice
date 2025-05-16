@@ -1,0 +1,1 @@
+export type Colors = 'inherit' | 'primary' | 'secondary' | 'error' | 'default';
